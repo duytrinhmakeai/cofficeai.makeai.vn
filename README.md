@@ -32,7 +32,7 @@ kỳ đúng giờ: 24/7, không nghỉ phép, không quên hạn.
 ## Tải về và cài đặt
 
 1. Vào trang **[Releases](https://github.com/duytrinhmakeai/cofficeai.makeai.vn/releases/latest)**, tải tệp
-   `COffice AI-<phiên bản>-win-x64.exe` (Windows 10/11, 64-bit).
+   `COffice.AI-<phiên bản>-win-x64.exe` (Windows 10/11, 64-bit).
 2. Chạy tệp vừa tải và làm theo trình cài đặt.
    - Nếu Windows hiện *"Windows protected your PC"*: bấm **More info → Run anyway**
      (Thông tin thêm → Vẫn chạy).
