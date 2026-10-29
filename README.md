@@ -36,10 +36,11 @@ kỳ đúng giờ: 24/7, không nghỉ phép, không quên hạn.
 2. Chạy tệp vừa tải và làm theo trình cài đặt.
    - Nếu Windows hiện *"Windows protected your PC"*: bấm **More info → Run anyway**
      (Thông tin thêm → Vẫn chạy).
-3. Mở COffice AI, đăng nhập tài khoản MakeAI. Trợ lý **MakeAI CLI** dùng được ngay, không cần nhập khóa API.
-4. Muốn dùng thêm **Codex**, **Gemini CLI** hay **Claude Code**? Chỉ cần nói với trợ lý
-   *"Cài Codex giúp tôi"* — trợ lý tự cài, mở trang đăng nhập và hướng dẫn đăng ký tài khoản nếu bạn chưa có
-   (Codex dùng được với tài khoản ChatGPT miễn phí).
+3. Mở COffice AI, nhập email và mã được gửi về hộp thư — chưa có tài khoản thì COffice tự tạo, không cần
+   mật khẩu. Lần sau mở máy vẫn còn đăng nhập. Trợ lý **MakeAI CLI** dùng được ngay, không cần nhập khóa API.
+4. Muốn dùng thêm **Codex**, **Gemini CLI**, **GitHub Copilot**, **Claude Code**, **Muse Code** hay **Grok**?
+   Chỉ cần nói với trợ lý *"Cài Codex giúp tôi"* — trợ lý tự cài, mở trang đăng nhập và hướng dẫn đăng ký tài
+   khoản nếu bạn chưa có. Codex, Gemini CLI và GitHub Copilot dùng được với tài khoản miễn phí.
 
 Mỗi phiên bản mới đều được đăng tại [Releases](https://github.com/duytrinhmakeai/cofficeai.makeai.vn/releases),
 kèm ghi chú thay đổi.
