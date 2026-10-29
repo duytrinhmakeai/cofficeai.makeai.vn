@@ -38,9 +38,9 @@ kỳ đúng giờ: 24/7, không nghỉ phép, không quên hạn.
      (Thông tin thêm → Vẫn chạy).
 3. Mở COffice AI, nhập email và mã được gửi về hộp thư — chưa có tài khoản thì COffice tự tạo, không cần
    mật khẩu. Lần sau mở máy vẫn còn đăng nhập. Trợ lý **MakeAI CLI** dùng được ngay, không cần nhập khóa API.
-4. Muốn dùng thêm **Codex**, **Gemini CLI**, **GitHub Copilot**, **Claude Code**, **Muse Code** hay **Grok**?
+4. Muốn dùng thêm **Codex**, **Gemini CLI**, **GitHub Copilot**, **Grok**, **Claude Code** hay **Muse Code**?
    Chỉ cần nói với trợ lý *"Cài Codex giúp tôi"* — trợ lý tự cài, mở trang đăng nhập và hướng dẫn đăng ký tài
-   khoản nếu bạn chưa có. Codex, Gemini CLI và GitHub Copilot dùng được với tài khoản miễn phí.
+   khoản nếu bạn chưa có. Codex, Gemini CLI, GitHub Copilot và Grok dùng được với tài khoản miễn phí.
 
 Mỗi phiên bản mới đều được đăng tại [Releases](https://github.com/duytrinhmakeai/cofficeai.makeai.vn/releases),
 kèm ghi chú thay đổi.
